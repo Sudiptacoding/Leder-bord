@@ -1,0 +1,95 @@
+.Body{
+  background-color: rgb(197, 188, 177);
+  font-family: 'Karla', sans-serif;
+
+}
+.nav_text{
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  padding: 0px 10px;
+  font-size: 24px;
+}
+.nav_text:hover{
+  color: white;
+}
+.nav_bg{
+  background-color: rgb(99, 16, 241);
+}
+.heder{
+  background-color:  rgb(99, 16, 241);
+}
+.navbar img{
+  width: 32px;
+  height: 32px;
+}
+.ml_auto{
+  margin-left: auto;
+}
+.nav-item_nb .nav-link{
+  color: rgb(240, 227, 227) !important;
+}
+.nav-item_nb{
+  padding: 0px 10px;
+}
+.main img{
+  width: 58px;
+}
+.main .profile{
+  display: flex;
+  justify-content: start;
+   align-items: center;
+   padding: 14px;
+}
+.main p{
+  padding: 0px 18px;
+}
+.main{
+   background-color: white;
+    border-radius: 9px;
+    margin-top: 34px;
+}
+.top_tx{
+    color: #8b0cff;
+    font-size: 24px;
+    padding: 38px 31px 14px;
+    font-weight: 500;
+}
+.pos{
+  margin: 7px 0px 2px 30px;
+}
+.box1 p{
+  color: black;
+  font-weight: bold;
+}
+.top_blog{
+  color: #8b0cff;
+    font-size: 24px;
+    padding: 6px 31px 14px;
+    font-weight: 500;
+}
+.top_blog_sec img{
+  width: 240px;
+}
+.top_blog_sec{
+  padding: 0px 32px;
+}
+.posation{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  padding: 15px 0px;
+}
+.main .posation p{
+  color: gray;
+  padding: 0px;
+}
+.blog_tx1{
+  padding-left: 20px;
+}
+.posation span{
+  color: rgb(125, 6, 253);
+}
+.ds{
+  font-weight: 600;
+}
